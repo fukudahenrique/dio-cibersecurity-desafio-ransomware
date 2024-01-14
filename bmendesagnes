@@ -1,0 +1,6 @@
+DIO
+Desafio Ransomware do curso DIO Cibersegurança
+
+encrypter.py: Irá criptografar o arquivo teste.txt
+decrypter.py: Irá descriptografar o arquivo teste.txt
+teste.txt: Arquivo txt que será criptografado
